@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/abdallahelhasany.png" width="130" height="130" alt="Abdallah Elhasany Logo" style="border-radius: 50%; border: 3px solid #ffd93d; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
   <h1>⚡ Abdallah Elhasany ⚡</h1>
-  <h3>Founder of <a href="https://electro-tan.vercel.app/">Electro</a> & Full Stack Web Developer</h3>
+  <h3>Founder of <a href="https://electroagency.vercel.app/">Electro</a> & Full Stack Web Developer</h3>
   <p><b>Bridging the Gap between Business Strategy & Technical Implementation</b></p>
   
   <p align="center">
@@ -12,9 +12,6 @@
     <a href="mailto:marjoballabani@gmail.com"><b>📧 Email</b></a> •
     <a href="https://paypal.me/AbdallahAlhasany"><b>☕ Buy Me Coffee</b></a>
   </p>
-  
-  <!-- Visitor Counter -->
-  <img src="https://profile-counter.glitch.me/abdallahelhasany/count.svg" alt="Visitor Counter" />
 </div>
 
 <br>
